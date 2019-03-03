@@ -1,4 +1,27 @@
+# Basic concepts 
 
-# learn_git 
+- [Local related](Local-related.md)
+- [Local to Remote](Local-to-Remote.md)
+- [Remote related](Remote-related.md)
+- [Branch](Branch.md)
+- [Fork](Fork.md)
+- [F**king good guide](http://marklodato.github.io/visual-git-guide/index-ko.html)
 
-Basic stuff learned in `wiki` tab or [LINK](https://github.com/anarinsk/learn_git/wiki)
+# Frequently used command 
+
+- [My command](My-command.md)
+- [Model direc structure](Directory-Structure.md)
+
+# Tips 
+
+- [.gitignore](gitignore.md)
+- [Github on ssh](How-to-use-GitHub-over-ssh.md)
+- [Shortcut 4 log](Shortcut-4-git-log.md)
+# Trouble shooting 
+
+- [non-fast-forward-errors](non-fast-forward-errors.md)
+
+# Obsolete
+
+- [Basics 1](Basics-1.md)
+- [Tutorial from BitBucket](Tutorial-from-BitBucket.md)
