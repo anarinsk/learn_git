@@ -23,6 +23,10 @@ The `git stash` command takes your uncommitted changes (both staged and unstaged
 
 - 헤드 역시 뒤로 돌아간다는 점을 명시하자. 
 
+## Basic scheme 
+
+See [here](https://www.atlassian.com/git/tutorials/saving-changes/git-stash 
+
 ## Reapply latest changes 
 
 You can reapply previously stashed changes with `git stash pop` _Popping_  your stash removes the changes from your stash and reapplies them to your working copy.
@@ -46,5 +50,6 @@ https://www.atlassian.com/git/tutorials/saving-changes/git-stash
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjQxNzEzMCwtMTUyMjYxMDUyXX0=
+eyJoaXN0b3J5IjpbMTIxMTQxODA1NiwxMjM2NDE3MTMwLC0xNT
+IyNjEwNTJdfQ==
 -->
