@@ -19,7 +19,17 @@
 # Stash 
 
 - stash means temporary saving 
-- 
+The `git stash` command takes your uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them from your working copy.
+
+- 헤드 역시 뒤로 돌아간다는 점을 명시하자. 
+
+## Reapply latest changes 
+
+You can reapply previously stashed changes with `git stash pop`_Popping_  your stash removes the changes from your stash and reapplies them to your working copy.
+
+Alternatively, you can reapply the changes to your working copy  _and_  keep them in your stash with  `git stash apply`:
+
+
 
 
 # Problem Solving 
@@ -34,5 +44,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MTA3Njg5NiwtMTUyMjYxMDUyXX0=
+eyJoaXN0b3J5IjpbLTE5OTA1MDY5MjQsLTE1MjI2MTA1Ml19
 -->
