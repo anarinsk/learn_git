@@ -36,8 +36,6 @@ Alternatively, you can reapply the changes to your working copy  _and_  keep the
 https://www.atlassian.com/git/tutorials/saving-changes/git-stash
 
 
-
-
 # Problem Solving 
 
 ## Q: Untrack files already added to git repository based on .gitignore
@@ -50,6 +48,6 @@ https://www.atlassian.com/git/tutorials/saving-changes/git-stash
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI5OTk2NDUsMTIzNjQxNzEzMCwtMT
-UyMjYxMDUyXX0=
+eyJoaXN0b3J5IjpbNjI1ODk1MjM5LC0xNzgyOTk5NjQ1LDEyMz
+Y0MTcxMzAsLTE1MjI2MTA1Ml19
 -->
