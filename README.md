@@ -17,6 +17,9 @@
 - [.gitignore](gitignore.md)
 - [Github on ssh](How-to-use-GitHub-over-ssh.md)
 - [Shortcut 4 log](Shortcut-4-git-log.md)
+- [Remove pain in the ass](https://github.com/anarinsk/learn_git/blob/master/how-to-remove-unwanted-large-files.md)
+- [How to use stash](https://github.com/anarinsk/learn_git/blob/master/how-2-remove-before-commit.md)
+
 # Trouble shooting 
 
 - [non-fast-forward-errors](non-fast-forward-errors.md)
