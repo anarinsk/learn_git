@@ -18,6 +18,9 @@
 
 # Stash 
 
+- stash means temporary saving 
+- 
+
 
 # Problem Solving 
 
@@ -31,5 +34,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjI2MTA1Ml19
+eyJoaXN0b3J5IjpbLTk2MTA3Njg5NiwtMTUyMjYxMDUyXX0=
 -->
