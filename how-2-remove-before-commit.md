@@ -25,9 +25,11 @@ The `git stash` command takes your uncommitted changes (both staged and unstaged
 
 ## Reapply latest changes 
 
-You can reapply previously stashed changes with `git stash pop`_Popping_  your stash removes the changes from your stash and reapplies them to your working copy.
+You can reapply previously stashed changes with `git stash pop` _Popping_  your stash removes the changes from your stash and reapplies them to your working copy.
 
-Alternatively, you can reapply the changes to your working copy  _and_  keep them in your stash with  `git stash apply`:
+Alternatively, you can reapply the changes to your working copy  _and_  keep them in your stash with  `git stash apply`.
+
+https://www.atlassian.com/git/tutorials/saving-changes/git-stash
 
 
 
@@ -44,5 +46,5 @@ Alternatively, you can reapply the changes to your working copy  _and_  keep the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTA1MDY5MjQsLTE1MjI2MTA1Ml19
+eyJoaXN0b3J5IjpbMTIzNjQxNzEzMCwtMTUyMjYxMDUyXX0=
 -->
