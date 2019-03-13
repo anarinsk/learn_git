@@ -25,7 +25,7 @@ The `git stash` command takes your uncommitted changes (both staged and unstaged
 
 ## Basic scheme 
 
-See [here](https://www.atlassian.com/git/tutorials/saving-changes/git-stash 
+See [here](https://www.atlassian.com/git/tutorials/saving-changes/git-stash) for lower parts. 
 
 ## Reapply latest changes 
 
@@ -50,6 +50,6 @@ https://www.atlassian.com/git/tutorials/saving-changes/git-stash
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTQxODA1NiwxMjM2NDE3MTMwLC0xNT
-IyNjEwNTJdfQ==
+eyJoaXN0b3J5IjpbLTE3ODI5OTk2NDUsMTIzNjQxNzEzMCwtMT
+UyMjYxMDUyXX0=
 -->
